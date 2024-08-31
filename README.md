@@ -1,1 +1,1 @@
-A chat app built with Flutter framework that uses STOMP to communicate with a server (check my SpringBoot chat server) inorder to send/receive messages between users in realtime. I developed this app in the sake of learning.
+A chat app built with Flutter framework that uses STOMP to communicate with a server (check my SpringBoot chat server repository) inorder to send/receive messages between users in realtime. I developed this app in the sake of learning.
